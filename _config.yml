@@ -46,46 +46,64 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: 3D Modeling
+  - category: Programming Languages
     tools:
-    - Onshape
-    - Solidworks
-    - Creo
-    - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
-    - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
-  - category: Prototyping
+      - Python
+      - Dart
+      - C/C++
+      - JavaScript
+      - MATLAB
+      - Bash
+
+  - category: Mobile & Web App Development
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
-    - Breadboarding for circuit testing
-  - category: Design Standards / Practices
+      - Flutter
+      - Node.js
+      - Firebase
+      - MongoDB
+      - REST APIs
+      - Express.js
+      - HTML/CSS
+
+  - category: Robotics & Control Systems
     tools:
-    - GD&T ASME Y14
-    - ISO fits and tolerances
-    - PLM (PTC Windchill / Arena)   
-  - category: PCB Design
+      - ROS (Robot Operating System)
+      - LQR / PID / Lead-Lag Controllers
+      - RViz
+
+  - category: Embedded Systems
     tools:
-    - Altium Designer
-    - Altium
-    - Eagle 
-    - KiCad
-  - category: Problem Solving / Risk Management
+      - Arduino
+      - Raspberry Pi
+      - I2C/SPI Protocols
+
+  - category: UI/UX & Visualization
     tools:
-    - Root Cause Analysis (e.g., 5 Whys, Fishbone Diagram)
-    - DFMEA / PFMEA 
-    - Six Sigma methodologies
-    - Shain Red-X
+      - Figma
+      - Google Maps API
+      - Custom Flutter Widgets
+
+  - category: Simulation & Control Design
+    tools:
+      - MATLAB
+      - Simulink
+      - Python (with NumPy, Matplotlib)
+      - Control System Toolbox
+
+  - category: Tools & Platforms
+    tools:
+      - Git / GitHub
+      - Android Studio
+      - VS Code
+      - Docker (basic)
+
+  - category: Soft Skills
+    tools:
+      - Team Collaboration
+      - Public Speaking
+      - Project Management
+      - Technical Writing
+
 
 
 # Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
