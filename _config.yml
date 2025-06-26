@@ -32,8 +32,8 @@ resume-url: assets/resume/CV-RAYAN.pdf
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin:   https://www.linkedin.com/in/rayan-abdul-samad-el-skaff-aa9146256/   # https://www.linkedin.com/in/rayan-abdul-samad-el-skaff-aa9146256/ 
-  github: rrayan1    # https://github.com/{rrayan1} 
+  linkedin:   https://www.linkedin.com/in/rayan-abdul-samad-el-skaff-aa9146256/  
+  github:    https://github.com/rrayan1
   stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
   x-twitter:   # https://x.com/{your url slug} 
