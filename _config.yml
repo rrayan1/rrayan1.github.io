@@ -12,12 +12,13 @@ title: John Doe's Portfolio # This is what shows up in the tab of the browser
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Rayan Abdul Samad El Skaff
+headline: Electrical and Computer Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I’m a recent engineering graduate fromm the American University of Beirut (AUB) with a strong focus on robotics, control systems, and application development.
+My passion lies in building intelligent systems that bridge the gap between hardware and software. I specialize in designing and implementing real-time control algorithms, modeling dynamic systems, 
+and developing cross-platform applications using Flutter, integrated with ROS, Node.js, and custom backends.
+Whether it's stabilizing nonlinear systems or creating user interfaces to interact with them, I enjoy delivering full-stack solutions that are both robust and user-centric.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
