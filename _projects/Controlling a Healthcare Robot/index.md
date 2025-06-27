@@ -19,7 +19,8 @@ main-image: /image1.jpeg
 ## User Interface for Controlling the Assistive Nurse Robot
 
 <img src="/assets/images/Untitled%20design%20(3).png" alt="Robot Image" style="width:70%; height:auto;">
-System Architecture:
+
+## System Architecture:
   - Flutter for building a responsive cross-platform mobile UI (Android & Web)
   - Node.js backend to handle API requests, mission scheduling, and system logic
   - MongoDB to store nurse login data, user profiles, and delivery requests
