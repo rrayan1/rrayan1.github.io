@@ -19,25 +19,16 @@ main-image: /image1.jpeg
 ## User Interface for Controlling the Assistive Nurse Robot
 
 <img src="/assets/images/Untitled%20design%20(3).png" alt="Robot Image" style="width:70%; height:auto;">
-.Built using Flutter for the mobile user interface, supporting both Android and web platforms.
+System Architecture:
+  - Flutter for building a responsive cross-platform mobile UI (Android & Web)
+  - Node.js backend to handle API requests, mission scheduling, and system logic
+  - MongoDB to store nurse login data, user profiles, and delivery requests
+  - ROSBridge protocol over WebSocket for real-time communication with the ROS system
+  - ZeroTier virtual network enables secure Wi-Fi communication between the robot and the app
+  - Real-time publishing and subscribing to ROS topics (commands, status, telemetry)
+  - Seamless integration across ROS, Node.js, MongoDB, and Flutter
+  - Designed for nurses to send delivery requests and monitor robot location/status in real time
 
-.Backend developed with Node.js to handle API requests, mission scheduling, and data management.
-
-.Used MongoDB to store nurse login credentials, user data, and delivery request records.
-
-.Established communication between the robot and the app over Wi-Fi using a ZeroTier virtual network for secure and reliable remote access.
-
-.Implemented a real-time WebSocket connection with the ROSBridge protocol to:
-
-   Publish commands to the robot’s ROS topics.
-
-   Subscribe to live robot telemetry (e.g., status, location, sensor data).
-
-.Enabled low-latency, bidirectional communication for smooth robot control and real-time updates.
-
-.Designed for nurses to send delivery requests, monitor robot status, and track its live location through the app.
-
-.Ensured modular integration between ROS, Node.js backend, MongoDB, and the Flutter frontend.
   
 
 ## Demo Videos
