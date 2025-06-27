@@ -15,21 +15,11 @@ skills:
 main-image: /image1.jpeg
 ---
 ---
-# Header 1 
-Used for the title (already generated automatically at the top)
-## Header 2  
-Use this for the header of each section
-### Header 3 
-Use this to have subsection if needed
 
 
-## Embedding images 
-
-### Embeed images
+### User Interface for Controlling the Assistive Nurse Robot
 ![Robot Image](/assets/images/Untitled%20design%20(3).png)
-
-place the images in project folder/images then update the file path.   
-
+  
 
 ## Embedded YouTube Video
 
@@ -40,7 +30,6 @@ Here’s a demonstration of real-time control of a healthcare robot using a Flut
 
 <br>
 
-## Adding a hozontal line
 ---
 
 ## Starting a new line
