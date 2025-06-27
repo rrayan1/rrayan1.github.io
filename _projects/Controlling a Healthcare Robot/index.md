@@ -41,9 +41,6 @@ Here’s a demonstration of real-time control of a healthcare robot using a Flut
 {% include youtube-video.html id="U26JCEndvNg" autoplay="false" %}
 you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
 
-The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
-{% include youtube-video.html id="tGCdLEQzde0" autoplay = "false" width= "900px" %}  
-
 <br>
 
 ## Adding a hozontal line
