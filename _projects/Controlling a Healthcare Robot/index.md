@@ -1,6 +1,6 @@
 ---
 layout: post
-title: project title
+title: Controlling a Healthcare Robot using a Mobile Application
 description: >-
   Nurse Robot:  
   An autonomous mobile robot controlled via a Flutter-based mobile application, supported by a Node.js backend.  
