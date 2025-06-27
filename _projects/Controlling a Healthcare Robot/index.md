@@ -12,5 +12,5 @@ skills:
   - Node.js
   - PID & LQR Control
   - Arduino
-main-image: /image.png
+main-image: /image1.jpeg
 ---
