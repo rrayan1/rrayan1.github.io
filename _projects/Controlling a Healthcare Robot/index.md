@@ -18,7 +18,9 @@ main-image: /image1.jpeg
 
 ## User Interface for Controlling the Assistive Nurse Robot
 
-<img src="/assets/images/Untitled%20design%20(3).png" alt="Robot Image" style="width:70%; height:auto;">
+<div style="text-align: center;">
+  <img src="/assets/images/Untitled%20design%20(3).png" alt="Robot Image" style="width:80%; height:auto;">
+</div>
 
 ## System Architecture:
   - Flutter for building a responsive cross-platform mobile UI (Android & Web)
