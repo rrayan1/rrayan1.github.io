@@ -106,21 +106,22 @@ skills:
 
 
 
-<form action="https://formspree.io/f/mnnvlzqk" method="POST">
+<!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/mnnvlzqk"
+  method="POST"
+>
   <label>
-    Your Email:
+    Your email:
     <input type="email" name="email">
   </label>
-  <br>
   <label>
-    Your Message:
+    Your message:
     <textarea name="message"></textarea>
   </label>
-  <br>
+  <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
-
-
 
 
 # Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
