@@ -17,7 +17,7 @@ main-image: /image1.jpeg
 ---
 
 
-### User Interface for Controlling the Assistive Nurse Robot
+## User Interface for Controlling the Assistive Nurse Robot
 ![Robot Image](/assets/images/Untitled%20design%20(3).png)
   
 
