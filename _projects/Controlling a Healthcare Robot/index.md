@@ -26,7 +26,7 @@ Use this to have subsection if needed
 ## Embedding images 
 
 ### Embeed images
-{% include image-gallery.html images="assets/images/Untitled%20design%20(3).png" height="400" %}
+![Robot Image](/assets/images/Untitled%20design%20(3).png)
 
 place the images in project folder/images then update the file path.   
 
