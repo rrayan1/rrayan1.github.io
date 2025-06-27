@@ -30,62 +30,16 @@ Here’s a demonstration of key features and real-time control of a healthcare r
 
 <br>
 
-## Starting a new line
-leave two spaces "  " at the end or enter <br>
+## Awards
+1. Recipient of AUB’s Dean’s Creative Achievement Award for outstanding
+ innovation in engineering.
+2. 2nd Place Winner at IEEE iCORE - FYP Demo Day Competition 2025
+ hosted by the Lebanese American University. <br>
 
-## Adding bold text
-this is how you input **bold text**
+## Project Report
 
-## Adding italic text
-Italicized text is the *cat's meow*.
+You can download the full project report here:
 
-## Adding ordered list
-1. First item
-2. Second item
-3. Third item
-4. Fourth item
-
-## Adding unordered list
-- First item
-- Second item
-- Third item
-- Fourth item
-
-## Adding code block
-```ruby
-def hello_world
-  puts "Hello, World!"
-end
-```
-
-```python
-def start()
-  print("time to start!")
-```
-
-```javascript
-let x = 1;
-if (x === 1) {
-  let x = 2;
-  console.log(x);
-}
-console.log(x);
-
-```
-
-## Adding external links
-[Wikipedia](https://en.wikipedia.org)
+[Download PDF Report](/assets/FYP_Final_Report_Spring.pdf)
 
 
-## Adding block quote
-> A blockquote would look great if you need to highlight something
-
-
-## Adding table 
-
-| Header 1 | Header 2 |
-|----------|----------|
-| Row 1, Col 1 | Row 1, Col 2 |
-| Row 2, Col 1 | Row 2, Col 2 |
-
-make sure to leave aline betwen the table and the header
