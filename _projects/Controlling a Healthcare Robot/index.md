@@ -40,6 +40,6 @@ Here’s a demonstration of key features and real-time control of a healthcare r
 
 You can download the full project report here:
 
-[Download PDF Report](/assets/FYP_Final_Report_Spring.pdf)
+[Download PDF Report](/assets/FYP_Final_Report_Spring_compressed.pdf)
 
 
