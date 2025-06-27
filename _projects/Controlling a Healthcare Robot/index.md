@@ -34,12 +34,11 @@ You can put in multiple entries. All images will be at a fixed height in the sam
 place the images in project folder/images then update the file path.   
 
 
-## Embedding youtube video
-The second video has the autoplay on. copy and paste the 11-digit id found in the url link. <br>
-*Example* : https://www.youtube.com/watch?v={**MhVw-MHGv4s**}&ab_channel=engineerguy
-{% include youtube-video.html id="MhVw-MHGv4s" autoplay= "false"%}
-{% include youtube-video.html id="XGC31lmdS6s" autoplay = "true" %}
+## Embedded YouTube Video
 
+Here’s a demonstration of real-time control of a healthcare robot using a Flutter mobile application:
+
+{% include youtube-video.html id="U26JCEndvNg" autoplay="false" %}
 you can also set up custom size by specifying the width (the aspect ratio has been set to 16/9). The default size is 560 pixels x 315 pixels.  
 
 The width of the video below. Regardless of initial width, all the videos is responsive and will fit within the smaller screen.
