@@ -12,5 +12,5 @@ skills:
   - Node.js
   - PID & LQR Control
   - Arduino
-main-image: /WhatsApp Image 2025-03-24 at 3.28.52 PM.jpeg
+main-image: /image.png
 ---
