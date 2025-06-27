@@ -26,7 +26,7 @@ Use this to have subsection if needed
 ## Embedding images 
 
 ### Embeed images
-{% include image-gallery.html images=Untitled design (3).png height="400" %} 
+{% include image-gallery.html images="Untitled design (3).png" height="400" %} 
 place the images in project folder/images then update the file path.   
 
 
