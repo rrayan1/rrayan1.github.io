@@ -21,16 +21,14 @@ main-image: /image1.jpeg
 ![Robot Image](/assets/images/Untitled%20design%20(3).png)
   
 
-## Embedded YouTube Video
+## Demo Videos
 
-Here’s a demonstration of real-time control of a healthcare robot using a Flutter mobile application:
+Here’s a demonstration of key features and real-time control of a healthcare robot using a Flutter mobile application:
 
+{% include youtube-video.html id="mclKxxoTl5U" autoplay="false" %}
 {% include youtube-video.html id="U26JCEndvNg" autoplay="false" %}
 
-
 <br>
-
----
 
 ## Starting a new line
 leave two spaces "  " at the end or enter <br>
